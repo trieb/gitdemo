@@ -8,6 +8,24 @@
 <body>
 
 
+  <form action="login.php">
+      <label><b>Username</b></label>
+      <input type="text" placeholder="Username" name="user" required>
+      <br/>
+      <label><b>Password</b></label>
+      <input type="password" placeholder="Password" name="password" required>
+      <br/>
+      <button type="submit">Login</button>
+  </form>
+
+
+<?php
+
+echo "hello";
+
+ ?>
+
+
 
 </body>
 </html>
