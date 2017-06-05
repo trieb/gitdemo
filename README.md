@@ -4,9 +4,3 @@
 
 * Listitem
 * Listitem
-
-'''
-<?php
-require_once('setting.php');
-?>
-'''
